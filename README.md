@@ -3,7 +3,7 @@
 This is Task 2 assigned by Banao Technology. In this task, I was asked to create a responsive website that is both desktop and mobile-friendly, incorporating the best scroll effects. I chose to build the website using HTML, CSS, and JavaScript, opting not to use React in order to challenge myself and see how well I could design the website without it.
 
 
-#Built With
+# Built With
 
 * HTML
 * CSS
